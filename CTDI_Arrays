@@ -15,3 +15,11 @@ Problem-2-> May 31st 2015:
 Write an algorithm such that if an element in an MxN matrix is 0, its entire row and 
 column is set to 0 (1.7)
 
+Problem-3-> June 1st 2015:
+-------------------------
+
+Design an algorithm and write code to remove the duplicate characters in a string 
+without using any additional buffer  NOTE: One or two additional variables are fine    
+An extra copy of the array is not 
+FOLLOW UP
+Write the test cases for this method (1.3)
