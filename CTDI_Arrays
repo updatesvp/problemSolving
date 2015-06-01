@@ -1,7 +1,7 @@
 Problem-1-> May 30th 2015:
 -------------------------
 Implement an algorithm to determine if a string has all unique characters  What if you 
-can not use additional data structures?
+can not use additional data structures? (1.1)
 
 
 Pranesh Vyas:
@@ -13,5 +13,5 @@ Problem-2-> May 31st 2015:
 -------------------------
 
 Write an algorithm such that if an element in an MxN matrix is 0, its entire row and 
-column is set to 0 
+column is set to 0 (1.7)
 
